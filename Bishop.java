@@ -3,6 +3,7 @@ package functions;
 /**
  *
  * @author Ben
+ * @author Polina
  */
 public class Bishop implements Piece {
 
